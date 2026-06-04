@@ -1,6 +1,11 @@
-# TP-IOT
-Proyecto Electrónica y Programación
-Proyecto Electrónica y Programación
+# Informe Técnico 
+# Proyecto Electrónica y Programación
+# Alumnos : Lucas W, Jose B, Maximo P, Leon S, Olivia B.
+# Curso : 4A TIC
+# 04/06 - 24/06
+
+Consignas :
+
 Introducción
 En las próximas 5 clases, cada grupo deberá pasar de una idea teórica a un prototipo funcional. Su trabajo será evaluado paso a paso a través de hitos de entrega obligatorios.
 
