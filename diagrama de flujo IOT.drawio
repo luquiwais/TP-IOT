@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="bB7odw5X8nz5sugr8VB4">
+    <mxGraphModel dx="1433" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-20" edge="1" parent="1" source="0q5s2NIQGL8eqGcAKfSo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0q5s2NIQGL8eqGcAKfSo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-6" edge="1" parent="1" source="0q5s2NIQGL8eqGcAKfSo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0q5s2NIQGL8eqGcAKfSo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="leer potenciometro" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-12" edge="1" parent="1" source="0q5s2NIQGL8eqGcAKfSo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="0q5s2NIQGL8eqGcAKfSo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="mayor a cero?" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-9" edge="1" parent="1" source="0q5s2NIQGL8eqGcAKfSo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" target="0q5s2NIQGL8eqGcAKfSo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-10" connectable="0" parent="0q5s2NIQGL8eqGcAKfSo-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.7224" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-16" edge="1" parent="1" source="0q5s2NIQGL8eqGcAKfSo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0q5s2NIQGL8eqGcAKfSo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mapear valores entre 0-1023 del potenciometro a&amp;nbsp;&lt;div&gt;0-255 del motor&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SI" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-17" edge="1" parent="1" source="0q5s2NIQGL8eqGcAKfSo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="570" />
+              <mxPoint x="620" y="160" />
+            </Array>
+            <mxPoint x="410" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Escribir valor en el motor" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-21" edge="1" parent="1" source="0q5s2NIQGL8eqGcAKfSo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0q5s2NIQGL8eqGcAKfSo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0q5s2NIQGL8eqGcAKfSo-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="se declara el pin 10 como output" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
