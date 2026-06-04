@@ -11,4 +11,5 @@ void loop() {
   int velocidad = map(valorPot, 0, 1023, 0, 255);
 
   analogWrite(motor, velocidad);
+  delay(100)
 }
