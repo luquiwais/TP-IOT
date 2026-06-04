@@ -1,3 +1,4 @@
+<img width="1345" height="841" alt="image" src="https://github.com/user-attachments/assets/81ed973e-0e76-43bf-bf73-7bea65b1cfe9" />
 # TP-IOT
 Proyecto Electrónica y Programación
 Proyecto Electrónica y Programación
@@ -86,3 +87,5 @@ Función: Comprender la diferencia entre señal de control (baja potencia) y pot
 Bitácora de fallas:
 ¿El motor no gira? Falla: Los cables de la batería externa no comparten el GND con el Arduino.
 ¿El motor hace ruido pero no gira? Falla: La señal PWM no tiene suficiente amplitud; revisar conexión de la base del transistor.
+<img width="1345" height="841" alt="screenshot-2026-06-04_10-22-52" src="https://github.com/user-attachments/assets/41eb425f-84aa-4805-b513-ee7abb90f54d" />
+
