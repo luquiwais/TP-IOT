@@ -6,5 +6,5 @@
 - Se creó el diagrama de flujo
 
 ## Clase 2
-- Se creó un diagrama del circuito 
+- Se creó un diagrama del circuito (Diagrama técnico IOT.pdf)
 - Se comenzó con la conexión física del circuito
