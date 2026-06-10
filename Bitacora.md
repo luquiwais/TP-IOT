@@ -1,4 +1,4 @@
-# Vitácora clase a clase del proyecto
+# Bitácora clase a clase del proyecto
 
 ## Clase 1
 - Se simuló en tinkercad (CapturaTinkercadCircuito.png)
