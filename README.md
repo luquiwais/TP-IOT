@@ -1,4 +1,5 @@
 <img width="1345" height="841" alt="image" src="https://github.com/user-attachments/assets/81ed973e-0e76-43bf-bf73-7bea65b1cfe9" />
+https://docs.google.com/document/d/1tdZOzKAgib6OKZR6LNHw72SeIx5g-e60aVSQUt2CXrc/edit?usp=sharing
 # TP-IOT
 Proyecto Electrónica y Programación
 Proyecto Electrónica y Programación
