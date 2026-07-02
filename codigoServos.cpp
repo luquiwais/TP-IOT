@@ -1,7 +1,7 @@
 /*
 La consigna base decía de controlar la velocidad de un motor CC normal, pero como solamente tenemos
 servomotores, vamos a usar esos. El código cambia, evidentemente. La base de este código salió de
-
+https://programarfacil.com/blog/arduino-blog/servomotor-con-arduino/
 */
 #define pot A0
 Servo servoMotor ;
